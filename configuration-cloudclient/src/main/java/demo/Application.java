@@ -11,8 +11,6 @@ public class Application {
 	@Autowired
 	void setEnvironment(Environment e) {
 		System.out.println(e.getProperty("configuration.projectName") + "===> Karoonakar");
-		System.out.println(e.getProperty("configuration.version") + "===> Karoonakar");
-		
 	}
 
 	public static void main(String[] args) {
