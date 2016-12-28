@@ -35,3 +35,11 @@ public class Application {
 // https://www.iancollington.com/centralised-configuration-using-spring-boot/
 
 // https://bushkarl.gitbooks.io/spring-cloud/content/spring_cloud_config/spring_cloud_config_server.html
+
+// http://www.kennybastani.com/2015/07/spring-cloud-docker-microservices.html
+ 
+// http://qiita.com/making@github/items/704d8e254e03c5cce546
+
+// https://github.com/making/config-repo
+
+// https://github.com/spring-cloud-samples/config-repo/blob/master/application.yml

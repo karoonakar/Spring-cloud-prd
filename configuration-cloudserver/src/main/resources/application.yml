@@ -10,7 +10,7 @@ spring:
 
 ---
 spring:  
-  profiles: development
+  profiles: dev
 server:  
   port: 9090
   cloud:
